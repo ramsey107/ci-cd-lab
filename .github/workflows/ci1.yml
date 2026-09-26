@@ -1,4 +1,4 @@
-name: zMultiple jobs
+name: Multiple jobs
 
 on:
   push:
